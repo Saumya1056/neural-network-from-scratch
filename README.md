@@ -19,7 +19,7 @@ A neural network built from scratch using Python and NumPy to understand the mat
 
 ## Progress
 
-- [ ] Learn NumPy and matrix operations
+- [ x ] Learn NumPy and matrix operations
 - [ ] Implement a single neuron
 - [ ] Implement activation functions
 - [ ] Implement dense layers
